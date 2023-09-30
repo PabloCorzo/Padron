@@ -4,3 +4,4 @@ dominio incluye Habitante.java, donde se crea la clase Habitante con sus constru
 aplicación contiene Principal.java, que se usa para ejecutar la interfaz.
 presentacion incluye interfaz.java, que crea un objeto de OPadron y crea el método ejecutar para poder añadir los habitantes desde Principal.java, además de un método para mostrar los habitantes
 por último, comprobación incluye check.java, que comprueba el contenido del ArrayList
+He añadido 2 imágenes comprobando el funcionamiento del proyecto desde la consola
