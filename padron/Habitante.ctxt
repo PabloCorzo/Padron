@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Habitante
-comment1.params=nombreHabitante
-comment1.target=void\ setNombre(java.lang.String)
-comment2.params=apellido1Habitante
-comment2.target=void\ setap1(java.lang.String)
-numComments=3
